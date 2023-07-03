@@ -25,4 +25,4 @@ jobs:
 
         - run: make install
         - run: make lint
-        - run: male test
+        - run: make test
